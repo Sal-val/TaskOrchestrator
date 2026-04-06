@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9w/nWZHIoc=",
+  "dgSpecHash": "H7lh5Kuebn4=",
   "success": true,
-  "projectFilePath": "I:\\NETProjects\\TaskManager\\TaskOrchestrator\\TaskOrchestrator.API\\TaskOrchestrator.Api.csproj",
+  "projectFilePath": "I:\\NETProjects\\TaskManager\\TaskOrchestrator\\TaskOrchestrator.Api\\TaskOrchestrator.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\qrzy\\.nuget\\packages\\hangfire.aspnetcore\\1.8.23\\hangfire.aspnetcore.1.8.23.nupkg.sha512",
     "C:\\Users\\qrzy\\.nuget\\packages\\hangfire.core\\1.8.23\\hangfire.core.1.8.23.nupkg.sha512",

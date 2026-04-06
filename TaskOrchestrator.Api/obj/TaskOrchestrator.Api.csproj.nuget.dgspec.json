@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\NETProjects\\TaskManager\\TaskOrchestrator\\TaskOrchestrator.API\\TaskOrchestrator.Api.csproj": {}
+    "I:\\NETProjects\\TaskManager\\TaskOrchestrator\\TaskOrchestrator.Api\\TaskOrchestrator.Api.csproj": {}
   },
   "projects": {
-    "I:\\NETProjects\\TaskManager\\TaskOrchestrator\\TaskOrchestrator.API\\TaskOrchestrator.Api.csproj": {
+    "I:\\NETProjects\\TaskManager\\TaskOrchestrator\\TaskOrchestrator.Api\\TaskOrchestrator.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\NETProjects\\TaskManager\\TaskOrchestrator\\TaskOrchestrator.API\\TaskOrchestrator.Api.csproj",
+        "projectUniqueName": "I:\\NETProjects\\TaskManager\\TaskOrchestrator\\TaskOrchestrator.Api\\TaskOrchestrator.Api.csproj",
         "projectName": "TaskOrchestrator.Api",
-        "projectPath": "I:\\NETProjects\\TaskManager\\TaskOrchestrator\\TaskOrchestrator.API\\TaskOrchestrator.Api.csproj",
+        "projectPath": "I:\\NETProjects\\TaskManager\\TaskOrchestrator\\TaskOrchestrator.Api\\TaskOrchestrator.Api.csproj",
         "packagesPath": "C:\\Users\\qrzy\\.nuget\\packages\\",
-        "outputPath": "I:\\NETProjects\\TaskManager\\TaskOrchestrator\\TaskOrchestrator.API\\obj\\",
+        "outputPath": "I:\\NETProjects\\TaskManager\\TaskOrchestrator\\TaskOrchestrator.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

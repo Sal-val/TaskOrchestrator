@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskOrchestrator.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3eece39db8db6776fbbf4e0ba555b593527c8fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskOrchestrator.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskOrchestrator.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
