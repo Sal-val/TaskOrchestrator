@@ -1,0 +1,11 @@
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Domain\bin\Debug\net10.0\TaskOrchestrator.Domain.deps.json
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Domain\bin\Debug\net10.0\TaskOrchestrator.Domain.dll
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Domain\bin\Debug\net10.0\TaskOrchestrator.Domain.pdb
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Domain\obj\Debug\net10.0\TaskOrchestrator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Domain\obj\Debug\net10.0\TaskOrchestrator.Domain.AssemblyInfoInputs.cache
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Domain\obj\Debug\net10.0\TaskOrchestrator.Domain.AssemblyInfo.cs
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Domain\obj\Debug\net10.0\TaskOrchestrator.Domain.csproj.CoreCompileInputs.cache
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Domain\obj\Debug\net10.0\TaskOrchestrator.Domain.dll
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Domain\obj\Debug\net10.0\refint\TaskOrchestrator.Domain.dll
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Domain\obj\Debug\net10.0\TaskOrchestrator.Domain.pdb
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Domain\obj\Debug\net10.0\ref\TaskOrchestrator.Domain.dll

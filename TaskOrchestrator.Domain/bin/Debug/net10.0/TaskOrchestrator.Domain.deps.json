@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TaskOrchestrator.Domain/1.0.0": {
+        "runtime": {
+          "TaskOrchestrator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskOrchestrator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+@TaskOrchestrator.Api_HostAddress = http://localhost:5115
+
+GET {{TaskOrchestrator.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

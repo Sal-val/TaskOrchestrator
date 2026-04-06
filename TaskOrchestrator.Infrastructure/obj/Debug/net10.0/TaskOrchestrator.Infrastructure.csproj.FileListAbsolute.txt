@@ -1,0 +1,17 @@
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\bin\Debug\net10.0\TaskOrchestrator.Infrastructure.deps.json
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\bin\Debug\net10.0\TaskOrchestrator.Infrastructure.dll
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\bin\Debug\net10.0\TaskOrchestrator.Infrastructure.pdb
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\bin\Debug\net10.0\TaskOrchestrator.Application.dll
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\bin\Debug\net10.0\TaskOrchestrator.Domain.dll
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\bin\Debug\net10.0\TaskOrchestrator.Application.pdb
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\bin\Debug\net10.0\TaskOrchestrator.Domain.pdb
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\obj\Debug\net10.0\TaskOrchestrator.Infrastructure.csproj.AssemblyReference.cache
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\obj\Debug\net10.0\TaskOrchestrator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\obj\Debug\net10.0\TaskOrchestrator.Infrastructure.AssemblyInfoInputs.cache
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\obj\Debug\net10.0\TaskOrchestrator.Infrastructure.AssemblyInfo.cs
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\obj\Debug\net10.0\TaskOrchestrator.Infrastructure.csproj.CoreCompileInputs.cache
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\obj\Debug\net10.0\TaskOrch.AE936F73.Up2Date
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\obj\Debug\net10.0\TaskOrchestrator.Infrastructure.dll
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\obj\Debug\net10.0\refint\TaskOrchestrator.Infrastructure.dll
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\obj\Debug\net10.0\TaskOrchestrator.Infrastructure.pdb
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Infrastructure\obj\Debug\net10.0\ref\TaskOrchestrator.Infrastructure.dll

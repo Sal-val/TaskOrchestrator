@@ -1,0 +1,15 @@
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\bin\Debug\net10.0\TaskOrchestrator.Application.deps.json
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\bin\Debug\net10.0\TaskOrchestrator.Application.dll
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\bin\Debug\net10.0\TaskOrchestrator.Application.pdb
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\bin\Debug\net10.0\TaskOrchestrator.Domain.dll
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\bin\Debug\net10.0\TaskOrchestrator.Domain.pdb
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\obj\Debug\net10.0\TaskOrchestrator.Application.csproj.AssemblyReference.cache
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\obj\Debug\net10.0\TaskOrchestrator.Application.GeneratedMSBuildEditorConfig.editorconfig
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\obj\Debug\net10.0\TaskOrchestrator.Application.AssemblyInfoInputs.cache
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\obj\Debug\net10.0\TaskOrchestrator.Application.AssemblyInfo.cs
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\obj\Debug\net10.0\TaskOrchestrator.Application.csproj.CoreCompileInputs.cache
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\obj\Debug\net10.0\TaskOrch.D8E0E913.Up2Date
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\obj\Debug\net10.0\TaskOrchestrator.Application.dll
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\obj\Debug\net10.0\refint\TaskOrchestrator.Application.dll
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\obj\Debug\net10.0\TaskOrchestrator.Application.pdb
+I:\NETProjects\TaskManager\TaskOrchestrator\TaskOrchestrator.Application\obj\Debug\net10.0\ref\TaskOrchestrator.Application.dll
